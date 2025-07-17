@@ -1,2 +1,3 @@
 # DSA_program
-respository for dsa programs
+Respository for dsa programs
+  Author-Anushrita Dey
